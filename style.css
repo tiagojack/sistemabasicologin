@@ -1,0 +1,83 @@
+body {
+  background-image:url(Wallpaper.jpg);
+ font-family: Raleway;
+}
+    
+    
+.logincontent {
+    height: 220px;
+    width: 280px;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 3px;
+    background-color: #F7F7F7;
+    border:1px solid;
+    box-shadow: 0px 0px 10px #cfcfcf;
+    
+}
+
+
+.form {
+    padding-top: 15px;
+    padding-left: 12px;
+    width: 270px;
+    border-bottom:1px solid;
+    padding-bottom: 5px;
+    border-bottom-style: dashed;
+    
+    
+}
+
+input {
+    height: 25px;
+    border-radius: 3px;
+    width: 250px;
+    
+}
+
+form .submit {
+    height: 30px;
+    border-radius: 3px;
+    width: 60px;
+    transition:all 0.1s linear;
+    box-shadow: none;
+}
+
+form .submit:hover {
+    background-color:#CCCCCC;
+}
+
+
+.cadeado {
+    float: left;
+    padding-top: 4px;
+}
+
+
+.helpuser {
+    margin-top: 5px;
+    width: 280px;
+    height: 20px;
+}
+
+.esquecisenha {
+    height: 20px;
+    float: left;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    width: 50%;
+}
+
+.criarconta {
+    height: 20px;
+    float: left;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    width: 50%;
+}
+
+.helpuser a {
+    text-decoration: none;
+}
